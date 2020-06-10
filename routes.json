@@ -1,8 +1,8 @@
 {
   "routes": [
     {
-      "route": "/old-page.html",
-      "serve": "/new-page.html",
+      "route": "/learn",
+      "serve": "https://docs.microsoft.com/en-gb/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=online-frameworks-sicotin",
       "statusCode": 301
     },
     {
