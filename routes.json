@@ -1,6 +1,11 @@
 {
   "routes": [
     {
+      "route": "/old-page.html",
+      "serve": "/new-page.html",
+      "statusCode": 301
+    },
+    {
       "route": "/docs",
       "serve": "https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=online-docs-sicotin",
       "statusCode": 200
