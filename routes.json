@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/docs",
+      "serve": "https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=online-docs-sicotin",
+      "statusCode": 200
+    }
+  ]
+}
