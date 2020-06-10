@@ -9,6 +9,11 @@
       "route": "/docs",
       "serve": "https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=online-docs-sicotin",
       "statusCode": 301
+    },
+    {
+      "route": "/feedback",
+      "serve": "https://github.com/Azure/static-web-apps",
+      "statusCode": 301
     }
   ]
 }
